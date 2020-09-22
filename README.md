@@ -5,6 +5,4 @@ This repository contains a comprehensive Jupyter notebook to discover and visual
 Calculated tf-idf matrix for non-negative matrix factorization, filtering stop words and getting words' frequency in the corpus.
 Visualised top words using 'wordcloud' package in Python
 
-Install wordcloud package using command -
 
-!pip install wordcloud
