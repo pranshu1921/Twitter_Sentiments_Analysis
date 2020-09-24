@@ -1,0 +1,7 @@
+re
+pandas
+os
+nltk
+sklearn
+workcloud
+matplotlib
