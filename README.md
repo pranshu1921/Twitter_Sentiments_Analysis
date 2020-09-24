@@ -22,7 +22,7 @@ Visualised top words using 'wordcloud' package in Python.
 * Run the jupyter notebook
 
 ## Status
-Project is: Finished
+Project status: Finished
 
 ## Inspiration
 This project was part of the learning process for the course 'Applications of Artificial Intelligence', part of my Master's in Analytics program in Northeastern University, Boston, MA, US
