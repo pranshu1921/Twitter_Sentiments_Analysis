@@ -1,8 +1,3 @@
-
---------------------------------
-T
-
-
 # Twitter_Sentiments_Analysis
 This repository contains a comprehensive Jupyter notebook to discover and visualize topics from a corpus of Twitter tweets.
 
