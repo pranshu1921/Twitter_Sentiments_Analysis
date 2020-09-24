@@ -5,10 +5,14 @@ Calculated tf-idf matrix for non-negative matrix factorization, filtering stop w
 Visualised top words using 'wordcloud' package in Python.
 
 ## Table of contents
+* [General info](#general-info)
 * [Setup](#setup)
 * [Status](#status)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
+
+## General info
+
 
 ## Setup
 
